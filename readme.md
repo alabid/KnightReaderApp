@@ -41,7 +41,7 @@ WORKING FEATURES
 <li>XML used for saving user data</li>
 
 <b>(Program features)</b>
-<li>Automatically updates feed view with new feeds regularly<li>
+<li>Automatically updates feed view with new feeds regularly</li>
 <li>Search (by keyword)</li>
 <li>Sort (by title or date)</li>
 <li>Add/Delete/Rename Folder</li>
