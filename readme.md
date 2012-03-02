@@ -14,6 +14,7 @@ PROGRAM OVERVIEW
 	
 KnightReader is a RSS feed reader that allows users to subscribe to and manage their favorite feeds.  KnightReaderApp makes use of the MVC design pattern, in which a Model class contains the feed and folder data, the View Class displays the feeds to the user in a clear way and offers various options to the user, and the Controller class responds to the user input.
 
+The Architecture of the program can be seen at <b>Docs/proposal.pdf</b>.
 
 HOW TO
 ------
