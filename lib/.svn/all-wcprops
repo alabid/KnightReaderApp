@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/cs204-group2/!svn/ver/9/lib
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cs204-group2/!svn/ver/9/lib/xml-apis.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cs204-group2/!svn/ver/9/lib/xercesImpl.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cs204-group2/!svn/ver/9/lib/dom4j-1.6.1.jar
+END
+feed4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cs204-group2/!svn/ver/9/lib/feed4j.jar
+END
+nekohtml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cs204-group2/!svn/ver/9/lib/nekohtml.jar
+END
