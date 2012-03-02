@@ -34,14 +34,15 @@ HOW TO
 WORKING FEATURES
 ----------------
 <b>(Design Features)</b>
-* MVC design pattern
-* Observer design pattern (Model = subject, controller = observer)
-* JUnit Tests for all Core classes
-* XML used for saving user data
+<ul>
+<li>MVC design pattern</li>
+<li>Observer design pattern (Model = subject, controller = observer)</li>
+<li>JUnit Tests for all Core classes</li>
+<li>XML used for saving user data</li>
 
 <b>(Program features)</b>
-* Search (by keyword)
-* Sort (by title or date)
-* Add/Delete/Rename Folder
-* Subscribe/Unsubscribe to Feed
-* Unread entries in B
+<li>Automatically updates feed view with new feeds regularly<li>
+<li>Search (by keyword)</li>
+<li>Sort (by title or date)</li>
+<li>Add/Delete/Rename Folder</li>
+<li>Subscribe/Unsubscribe to Feed</li>
